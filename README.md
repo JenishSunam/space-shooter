@@ -26,11 +26,11 @@ A complete 2D space shooter game built with LibGDX on a Redmi 9A (2GB RAM, arm32
 
 ## Screenshots
 
-![Menu](screenshots/menu.jpg)
-![Gameplay](screenshots/gameplay.jpg)
-![Boss fight](screenshots/boss.jpg)
-![Shop](screenshots/shop.jpg)
-
+![Menu](screenshots/screenshot-1.jpg)
+![Gameplay](screenshots/screenshot-2.jpg)
+![Boss fight](screenshots/screenshot-3.jpg)
+![Shop](screenshots/screenshot-4.jpg)
+![Achievements](screenshots/screenshot-5.jpg)
 ## Install
 
 1. Download the APK from [Releases](../../releases)
